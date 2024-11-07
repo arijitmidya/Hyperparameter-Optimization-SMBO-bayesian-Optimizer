@@ -55,3 +55,8 @@ Finally, the process is terminated when a stopping criterion is met, such as whe
 Overall, SMBO is a powerful and flexible method for optimizing complex and expensive functions. It has been successfully applied to a wide range of different ML problems to produce ML models with the best performance.
 
 ## Implementation Example : A binary classification problem statement is optimized for Histogram Based Gradient Boosting algorithm and k-nearest algorithm
+
+## Workflow of the Bayesian Optimization Algorithm : 
+
+![image](https://github.com/user-attachments/assets/ac0519af-6b29-45f9-acd1-e3dcc038af24)
+
